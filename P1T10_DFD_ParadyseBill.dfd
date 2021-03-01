@@ -1,0 +1,72 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+140
+"PaypointSoftware Maker: Cristhian Arley Susano Fernandez This software shows the sum of the value of 4 products and adds him the IVA value"
+4
+1
+41
+"Enter the value of the product number 1"
+5
+1
+10
+V_Product1
+4
+1
+41
+"Enter the value of the product number 2"
+5
+1
+10
+V_Product2
+4
+1
+41
+"Enter the value of the product number 3"
+5
+1
+10
+V_Product3
+4
+1
+41
+"Enter the value of the product number 4"
+5
+1
+10
+V_Product4
+7
+0
+1
+60
+v_product1<0 or v_product2<0 or v_product3<0 or v_product4<0
+6
+3
+9
+sumvalues
+43
+v_product1+v_product2+v_product3+v_product4
+3
+iva
+14
+sumvalues*0.19
+5
+total
+13
+sumvalues+iva
+4
+1
+67
+"Products value: ",sumvalues,"  IVA: ",iva,"  Total to pay: ",total
+13
+4
+1
+31
+"ERR: Values can´t be negative"
+13
+1

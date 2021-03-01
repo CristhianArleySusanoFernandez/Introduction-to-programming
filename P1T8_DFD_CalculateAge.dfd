@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+154
+"Agesoft V1.0
+Maker: Cristhian Arley Susano Fernandez
+This software use the year of birth to calculate the age of a person
+Please type your birth year"
+5
+1
+11
+v_yearbirth
+7
+0
+1
+16
+v_yearbirth>2021
+6
+1
+5
+v_age
+16
+2021-v_yearbirth
+4
+1
+30
+"Your are ",v_age," years old"
+13
+4
+1
+81
+"ERR: Please select a valid year birth
+The year birth shlould be less than 2021"
+13
+1

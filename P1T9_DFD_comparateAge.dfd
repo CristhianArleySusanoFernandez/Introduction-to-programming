@@ -1,0 +1,76 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+140
+"SoftCompareAge V1.0 
+Maker: Cristhian Arley Susano Fernandez
+This software compare the year birth of two persons and telll us who is older"
+4
+1
+53
+"Please introduce the birth year of the first person"
+5
+1
+7
+v_year1
+4
+1
+54
+"Please introduce the birth year of the second person"
+5
+1
+7
+v_year2
+7
+0
+1
+28
+v_year1>2021 or v_year2>2021
+6
+2
+6
+v_age1
+12
+2021-v_year1
+6
+v_age2
+12
+2021-v_year2
+7
+0
+1
+13
+v_age1=v_age2
+7
+0
+1
+13
+v_age1>v_age2
+4
+1
+28
+"The second person is older"
+13
+4
+1
+27
+"The first person is older"
+13
+13
+4
+1
+24
+"the both ages are same"
+13
+13
+4
+1
+42
+"ERR: Please introduce a valid birth year"
+13
+1

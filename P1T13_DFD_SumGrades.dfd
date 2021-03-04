@@ -1,0 +1,58 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+131
+"GradesSoftware Maker: Cristhian Arley Susano Fernandez This software collect the grades of an student and brings up a final grade"
+4
+1
+26
+"Please input your grades"
+5
+1
+11
+G1,G2,G3,G4
+7
+1
+1
+73
+G1>=0 AND G1<=5 OR G2>=0 AND G2<=5 OR G3>=0 AND G3<=5 OR G4>=0 AND G4<=5 
+6
+3
+11
+FINALGRADE1
+6
+G1*0.2
+11
+FINALGRADE2
+7
+G2*0.25
+11
+FINALGRADE3
+7
+G3*0.25
+6
+2
+11
+FINALGRADE4
+6
+G4*0.3
+5
+Total
+47
+FINALGRADE1+FINALGRADE2+FINALGRADE3+FINALGRADE4
+4
+1
+27
+"Su nota final fue: ",Total
+13
+4
+1
+20
+"ERR: Invalid grade"
+13
+1

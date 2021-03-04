@@ -1,0 +1,78 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+172
+"AgeOfPeopleSoftware Maker: Cristhian Arley Susano Fernandez This software recieve the age of a person and tell him if he is a child-adolecent-adult-old adult or matusalen"
+4
+1
+22
+"Please type your age"
+5
+1
+5
+V_age
+7
+1
+1
+8
+V_age>=0
+7
+0
+1
+7
+V_age<6
+7
+0
+1
+21
+V_age>=6 and V_age<18
+7
+0
+1
+23
+V_age>=18 and V_age <45
+7
+0
+1
+22
+V_age>=45 and V_age<90
+4
+1
+21
+"You are a matusalen"
+13
+4
+1
+21
+"You are a old adult"
+13
+13
+4
+1
+17
+"You are a adult"
+13
+13
+4
+1
+21
+"You are a adolecent"
+13
+13
+4
+1
+17
+"You are a child"
+13
+13
+4
+1
+25
+"Values cant be negative"
+13
+1

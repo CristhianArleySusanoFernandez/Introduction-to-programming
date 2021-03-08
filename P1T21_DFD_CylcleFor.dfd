@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+105
+"SoftwareNnumber Maker: Cristhian Arley Susano Fernandez This software will count until the input number"
+4
+1
+24
+"Type the total numbers"
+5
+1
+13
+v_TotalNumber
+7
+0
+1
+15
+v_TotalNumber<0
+8
+1
+1
+i
+1
+1
+1
+1
+13
+v_TotalNumber
+1
+1
+1
+4
+1
+24
+"The number cycle is ",i
+10
+13
+4
+1
+30
+"ERR: Number cant be negative"
+13
+1

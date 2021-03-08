@@ -1,0 +1,34 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+123
+"PairOrOddSoftware Maker: Cristhian Arley Susano Fernandez  This software will show you if the imput number is pair or odd"
+4
+1
+54
+"Please input a number (only entire numbers avalible)"
+5
+1
+8
+v_number
+7
+0
+1
+18
+v_number mod 2 = 0
+4
+1
+25
+"The input number is odd"
+13
+4
+1
+26
+"The input number is pair"
+13
+1

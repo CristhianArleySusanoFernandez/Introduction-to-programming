@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+124
+"CalendarSoftware Maker: Cristhian Arley Susano Fernandez This software will show you the number of days of the input month"
+4
+1
+26
+"Input the month (number)"
+5
+1
+7
+v_month
+7
+0
+1
+27
+v_month > 12 or v_month < 1
+7
+0
+1
+11
+v_month = 2
+7
+0
+1
+103
+v_month = 1 or v_month = 3 or v_month = 5 or v_month = 7 or v_month = 8 or v_month = 10 or v_month = 12
+4
+1
+24
+"the month have 30 days"
+13
+4
+1
+24
+"the month have 31 days"
+13
+13
+4
+1
+24
+"the month have 28 days"
+13
+13
+4
+1
+49
+"ERR: Please input a valid numer of month (1-12)"
+13
+1

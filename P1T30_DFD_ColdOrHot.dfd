@@ -1,0 +1,144 @@
+ Dfd (c)
+1
+1
+2
+0
+0
+4
+1
+134
+"ColdOrHotSoftware Maker:Cristhian Arley Susano Fernandez This software is a game when you try to guess a random number from 1 to 100"
+4
+1
+30
+"Press 1 to play or 2 to exit"
+5
+1
+6
+v_play
+9
+1
+23
+v_play!=1 and v_play!=2
+4
+1
+49
+"ERR: Invalid value Press 1 to play or 2 to exit"
+5
+1
+6
+v_play
+11
+9
+1
+8
+v_play=1
+12
+1
+15
+p_random_number
+1
+15
+v_random_number
+4
+1
+17
+"Select a number"
+5
+1
+15
+v_player_number
+9
+1
+32
+v_player_number!=v_random_number
+7
+0
+1
+41
+v_player_number<=0 or v_player_number>100
+7
+0
+1
+366
+v_player_number=v_random_number-1 or v_player_number=v_random_number-2 or v_player_number=v_random_number-3 or v_player_number=v_random_number-4 or v_player_number=v_random_number-5 or v_player_number=v_random_number+1 or v_player_number=v_random_number+2 or v_player_number=v_random_number+3 or v_player_number=v_random_number+4 or v_player_number=v_random_number+5
+7
+0
+1
+148
+v_player_number>v_random_number-20 and v_player_number<v_random_number-5 or v_player_number<v_random_number+20 and v_player_number>v_random_number+5
+4
+1
+6
+"Cold"
+13
+4
+1
+5
+"Hot"
+13
+13
+4
+1
+10
+"Very hot"
+13
+13
+4
+1
+33
+"The number is between 1 and 100"
+13
+4
+1
+17
+"Select a number"
+5
+1
+15
+v_player_number
+11
+4
+1
+25
+"Felicidades haz ganado!"
+4
+1
+30
+"Press 1 to play or 2 to exit"
+5
+1
+6
+v_play
+9
+1
+23
+v_play!=1 and v_play!=2
+4
+1
+49
+"ERR: Invalid value Press 1 to play or 2 to exit"
+5
+1
+6
+v_play
+11
+11
+1
+2
+1
+15
+p_random_number
+1
+15
+v_random_number
+1
+49
+This program select a random number from 1 to 100
+6
+1
+15
+v_random_number
+13
+1+random(100)
+3
